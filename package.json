@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "api-stat": "*",
     "react": "18.2.0",
     "react-native": "0.71.7",
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
