@@ -1,0 +1,11 @@
+[
+    {
+        "category": "EMAIL_ADDRESS",
+        "purposes": [
+            "PRODUCT_PERSONALIZATION"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    }
+]
